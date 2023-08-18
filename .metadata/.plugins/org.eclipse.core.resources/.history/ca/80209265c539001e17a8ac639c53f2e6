@@ -1,0 +1,9 @@
+package com.tcs.sbi;
+
+public class UserReg {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}
